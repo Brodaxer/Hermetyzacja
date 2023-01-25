@@ -7,6 +7,9 @@ class Client {
         this.firstName = firstName;
         this.lastName = lastName;
         this.premium = premium;
+//        if (firstName==null){
+//
+//        }
     }
 
     public String getFirstName() {
